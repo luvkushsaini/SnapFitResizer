@@ -1,0 +1,16 @@
+{
+  "manifest_version": 3,
+  "name": "SocialSnapSize-Image-Resizer",
+  "version": "0.1.0",
+  "description": "Resize images for social media platforms with custom dimensions.",
+  "permissions": ["activeTab", "storage"],
+  "action": {
+    "default_popup": "editor.html",
+    "default_icon": {
+      "16": "myicons/icon16.png",
+      "48": "myicons/icon48.png",
+      "128": "myicons/icon128.png"
+    }
+  }
+}
+
